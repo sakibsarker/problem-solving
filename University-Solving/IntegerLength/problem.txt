@@ -1,0 +1,11 @@
+To create an account in Campus Boi you need to enter your mobile
+number for automatic verification. Your input number must have 11
+digits. If you input 11 digits then there will show “ Generating OTP ”
+otherwise there will show an error “Invalid Number” .
+Now write a program that takes a phone number as input and displays
+either Invalid phone number or Generating OTP according to the
+condition .
+Sample Input1: ​ 01112345678
+Sample Output1: ​ Generating OTP
+Sample Input2: ​ 01123456
+Sample Output2: ​ Invalid Number
