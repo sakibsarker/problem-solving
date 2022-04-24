@@ -15,9 +15,9 @@ int main(void)
 	long n;
     cin>>n;
     if(countDigit(n)==11){
-        cout<<"Generating OTP";
+        cout<<"Generating OTP"<<endl;
     }
     else
-	cout << "Invalid Number";
+	cout << "Invalid Number"<<endl;
 	return 0;
 }
